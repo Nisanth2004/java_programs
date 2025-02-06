@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayTutorial/ArrayTutorial.iml" filepath="$PROJECT_DIR$/ArrayTutorial/ArrayTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finalkeyword/Finalkeyword.iml" filepath="$PROJECT_DIR$/Finalkeyword/Finalkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceExamples/InheritanceExamples.iml" filepath="$PROJECT_DIR$/InheritanceExamples/InheritanceExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFrameDemo/JFrameDemo.iml" filepath="$PROJECT_DIR$/JFrameDemo/JFrameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiLevelInheritance/MultiLevelInheritance.iml" filepath="$PROJECT_DIR$/MultiLevelInheritance/MultiLevelInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstJavaProject/MyFirstJavaProject.iml" filepath="$PROJECT_DIR$/MyFirstJavaProject/MyFirstJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringJava/StringJava.iml" filepath="$PROJECT_DIR$/StringJava/StringJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_programs.iml" filepath="$PROJECT_DIR$/java_programs.iml" />
+    </modules>
+  </component>
+</project>

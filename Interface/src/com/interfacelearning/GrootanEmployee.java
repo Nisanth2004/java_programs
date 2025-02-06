@@ -1,4 +1,7 @@
-package com.learning;
+package com.interfacelearning;
+
+import com.learning.EmployeeRules;
+import com.learning.FamilyRules;
 
 public class GrootanEmployee implements EmployeeRules, FamilyRules
 {

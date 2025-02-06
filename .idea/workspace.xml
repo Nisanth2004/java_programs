@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6fb3ace-4d82-4c13-b3bc-adbe5f4608ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/src/com/interfacelearning/EmployeeRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/src/com/interfacelearning/EmployeeRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/src/com/interfacelearning/FamilyRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/src/com/interfacelearning/FamilyRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/src/com/interfacelearning/GrootanEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/src/com/interfacelearning/GrootanEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/SringMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/StringDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/StringDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/StringLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/WordPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/CharExtraction1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/Class4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/StringMutableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/StringMutableClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/charextraction/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/comparemethods/StringBasics1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/comparemethods/StringBasics2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/comparemethods/StringBasics3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/comparemethods/StringBasics4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/comparemethods/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/StringMethod9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/equalsmethods/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/searchmethods/StringSearch1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/searchmethods/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/CheckVowelsInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/CountOfAnyChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/CountOfEachVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/CountOfFirstChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/CountofVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/StringClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/StringClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/StringClass3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/stringbuffer/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/strip_repeat/StringClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/strip_repeat/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/textprocessing/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/bin/com/textprocessing/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/SringMethod2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringLearning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/WordPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/CharExtraction1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/Class4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/StringMutableClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/StringMutableClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/charextraction/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/comparemethods/StringBasics1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/comparemethods/StringBasics2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/comparemethods/StringBasics3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/comparemethods/StringBasics4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/comparemethods/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/StringMethod9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/equalsmethods/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/searchmethods/StringSearch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/searchmethods/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/CheckVowelsInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/CountOfAnyChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/CountOfEachVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/CountOfFirstChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/CountofVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/StringClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/StringClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/StringClass3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/stringbuffer/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/strip_repeat/StringClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/strip_repeat/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/textprocessing/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringJava/src/com/textprocessing/package-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2rLj8SQAQMWnazfNRQh8inhiAUP" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sujiths/Desktop/Nisanth/NisanJavaWorkspace/java_programs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fb3ace-4d82-4c13-b3bc-adbe5f4608ad" name="Changes" comment="" />
+      <created>1736345094456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736345094456</updated>
+      <workItem from="1736345095586" duration="1342000" />
+      <workItem from="1738683036353" duration="291000" />
+      <workItem from="1738748679349" duration="12000" />
+      <workItem from="1738765338768" duration="775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="sockjs-client">
+    <archive path="/Users/sujiths/Library/Application Support/JetBrains/IntelliJIdea2022.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_sockjs-client_1.1.4_sockjs.js" />
+  </library>
+  <library name="stomp.js">
+    <archive path="/Users/sujiths/Library/Application Support/JetBrains/IntelliJIdea2022.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_stomp.js_2.3.3_stomp.js" />
+  </library>
+</eclipse-userlibraries>
+
